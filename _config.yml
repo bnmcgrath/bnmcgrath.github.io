@@ -24,7 +24,7 @@ description              : "A blog about anything and everything."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/logo.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : #"/assets/logo.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin McGrath"
-  avatar           : "/assets/logo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #"/assets/logo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Engineering/Commerce - UNSW."
   location         : "Sydney, Australia"
   email            :
