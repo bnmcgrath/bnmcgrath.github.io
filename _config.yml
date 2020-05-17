@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Benjamin McGrath"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Engineering/Commerce - UNSW."
+  location         : "Sydney, Australia"
   email            :
   links:
     - label: "Email"
